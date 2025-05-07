@@ -30,9 +30,9 @@ I offer professional Unity development services with over 5 years of hands-on ex
 ### 📬 Contact Me
 
 - 📧 [Email](mailto:yagizeraslan@gmail.com)
-- 🌐 [Portfolio Website]([https://yourwebsite.com](https://tranquil-cello-083.notion.site/Yagiz-Eraslan-Portfolio-f3c86c6e1fe3488d9b9223810a11da1a?pvs=74))
-- 🗓️ [Book a Session]([https://yourbookinglink.com](https://calendly.com/yagizeraslan/30min))
-- 💼 [Freelance Profile]([https://yourfreelancelink.com](https://www.upwork.com/freelancers/~0172bc179cabe5094a))
+- 🌐 [Portfolio Website](https://tranquil-cello-083.notion.site/Yagiz-Eraslan-Portfolio-f3c86c6e1fe3488d9b9223810a11da1a?pvs=74)
+- 🗓️ [Book a Session](https://calendly.com/yagizeraslan/30min)
+- 💼 [Freelance Profile](https://www.upwork.com/freelancers/~0172bc179cabe5094a)
 
 ---
 
