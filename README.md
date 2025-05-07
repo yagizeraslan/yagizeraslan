@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Yağız Eraslan
 
-<!--
-**yagizeraslan/yagizeraslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 XR/VR Developer | 👨‍🏫 Unity & C# Tutor | 🔧 Open-Source Contributor  
 
-Here are some ideas to get you started:
+I'm a Unity developer building immersive experiences in VR, AR, and MR across Meta Quest, HTC Vive, WebGL, and mobile.  
+I also create open-source Unity packages and provide personalized 1-on-1 lessons in C# and Unity development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 XR Hackathon Winner | Published on Meta & Steam  
+🧰 Tech: Unity (URP/HDRP), C#, Meta SDK, Photon, Firebase, SteamVR, Addressables, DOTween  
+📦 Open Source: API wrappers & Unity dev tools  
+📚 Tutor: Teaching Unity & C# through tailored, live sessions
+
+---
+
+🌐 Let's build something amazing — in real time.
