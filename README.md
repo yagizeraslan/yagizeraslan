@@ -1,39 +1,71 @@
 # 👋 Hi, I'm Yağız Eraslan
 
-🎮 XR/VR Developer | 👨‍🏫 Unity & C# Tutor | 🔧 Open-Source Contributor  
+## XR Innovation Specialist | Technical Team Lead | Unity Developer
 
-I'm a Unity developer building immersive experiences in VR, AR, and MR across platforms like Meta Quest, HTC Vive, WebGL, and mobile.  
-I also create open-source Unity packages that simplify API integrations and improve developer productivity.  
-In addition to development, I offer personalized 1-on-1 lessons for C# and Unity learners of all levels.
+I craft immersive experiences across VR, AR, and MR platforms with 5+ years of professional Unity development expertise. As a former VR Team Leader, I've guided cross-disciplinary teams through complete project lifecycles while maintaining technical excellence and meeting business objectives.
 
-🏆 2x XR Hackathon Winner | Published apps/games on Steam, Meta Store & Google Play Store  
-🧰 Tech: Unity (URP/HDRP), C#, XRIT, Meta SDK, Photon, SteamVR, Firebase, Addressables  
-📦 Open Source: Unity API wrappers, productivity tools, and real-world demo apps  
-📚 Mentor: Helping developers level up their skills through live, hands-on sessions  
+🏆 **Achievements**: 
+- 1st & 3rd Place Winner at XR Hack 2024
+- Published titles on Steam, Meta Quest Store & Google Play
+- Led VR development teams on commercial projects
+
+🧰 **Technical Expertise**: 
+- Unity (URP/HDRP), C#, XRIT, Meta & SteamVR SDKs
+- Multiplayer integration (Photon PUN/Fusion)
+- Performance optimization for standalone VR
+- API integrations, addressable assets, CI/CD pipelines
+
+👥 **Leadership Experience**:
+- Led VR development teams on commercial projects
+- Mentored junior developers in VR/AR implementation
+- Managed project timelines, resources, and stakeholder expectations
+- Facilitated collaboration between designers, developers, and business stakeholders
+
+📦 **Open Source Contributions**:
+- Unity API wrappers and integration packages
+- Performance optimization toolkits
+- Educational demo applications with documented code
 
 ---
 
-## 💼 Freelance Services
+## 💼 Professional Services
 
-I offer professional Unity development services with over 5 years of hands-on experience in:
+With extensive experience across XR development domains, I offer comprehensive solutions:
 
-- 🎓 **1-on-1 Unity & C# Tutoring** — Learn Unity and C# from scratch or improve your skills through practical, project-based training.
-- 📱 **Mobile/Web Game Development** — From idea to store-ready product for Android, iOS, and WebGL platforms.
-- 🥽 **VR/AR/MR Development** — Custom immersive experiences for Meta Quest, HTC Vive, and PCVR with spatial interaction and performance optimization.
-- 🧠 **Unity Technical Consulting** — Get expert advice on architecture, performance, multiplayer systems, and cross-platform deployment.
-- 📝 **Game Design Document Creation** — Professionally structured GDDs including gameplay systems, monetization, UI/UX flows, and dev pipelines.
+### 🥽 **XR Development**
+Creating immersive VR/AR/MR applications with intuitive spatial interactions, optimized performance, and cross-platform compatibility. From standalone Quest apps to high-fidelity PCVR experiences.
 
-🚀 Whether you're an individual looking to learn, a team needing Unity expertise, or a company with a vision — I can help bring your project to life.
+### 📱 **Unity Game & App Development**
+End-to-end development for mobile, web, and desktop platforms—from concept and prototyping to testing and deployment.
+
+### 🔍 **Technical Consulting & Team Leadership**
+Expert guidance on architecture, optimization, code quality, and deployment strategies for Unity-based projects. I can integrate with existing teams or lead technical implementation while mentoring junior developers.
+
+### 🎓 **Personalized Unity & C# Instruction**
+Tailored 1-on-1 mentoring sessions focused on practical, project-based learning for beginners through advanced developers.
+
+### 📝 **Game Design Documentation**
+Professionally structured GDDs with comprehensive gameplay systems, monetization strategies, UI/UX flows, and development roadmaps.
 
 ---
 
-### 📬 Contact Me
+## 🌟 Why Work With Me?
+
+- **Proven Leader**: Experience guiding development teams to successful project completion
+- **Problem Solver**: I approach each project with a focus on elegant, maintainable solutions
+- **Performance Expert**: Specialized in optimization for resource-constrained platforms
+- **Clear Communicator**: Technical concepts explained in accessible language
+- **Deadline-Driven**: Consistent delivery with transparent project management
+- **Continuous Learner**: Always expanding my toolkit with emerging XR technologies
+
+---
+
+### 📬 Let's Connect
 
 - 📧 [Email](mailto:yagizeraslan@gmail.com)
-- 🌐 [Portfolio Website](https://tranquil-cello-083.notion.site/Yagiz-Eraslan-Portfolio-f3c86c6e1fe3488d9b9223810a11da1a?pvs=74)
-- 🗓️ [Book a Session](https://calendly.com/yagizeraslan/30min)
+- 🌐 [Portfolio](https://tranquil-cello-083.notion.site/Yagiz-Eraslan-Portfolio-f3c86c6e1fe3488d9b9223810a11da1a?pvs=74)
+- 🗓️ [Book a Consultation](https://calendly.com/yagizeraslan/30min)
 - 💼 [Freelance Profile](https://www.upwork.com/freelancers/~0172bc179cabe5094a)
+- 👨‍💻 [GitHub](https://github.com/yagizeraslan)
 
----
-
-> “Let’s build something amazing — in real time.”
+> "Creating tomorrow's XR experiences with today's technology"
