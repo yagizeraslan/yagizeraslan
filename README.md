@@ -6,8 +6,8 @@ I'm a Unity developer building immersive experiences in VR, AR, and MR across pl
 I also create open-source Unity packages that simplify API integrations and improve developer productivity.  
 In addition to development, I offer personalized 1-on-1 lessons for C# and Unity learners of all levels.
 
-🏆 XR Hackathon Winner | Published on Meta & Steam  
-🧰 Tech: Unity (URP/HDRP), C#, Meta SDK, Photon, SteamVR, Firebase, Addressables, DOTween  
+🏆 2x XR Hackathon Winner | Published apps/games on Steam, Meta Store & Google Play Store  
+🧰 Tech: Unity (URP/HDRP), C#, XRIT, Meta SDK, Photon, SteamVR, Firebase, Addressables  
 📦 Open Source: Unity API wrappers, productivity tools, and real-world demo apps  
 📚 Mentor: Helping developers level up their skills through live, hands-on sessions  
 
