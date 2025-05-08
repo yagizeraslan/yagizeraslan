@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yağız Eraslan
 
-## XR Technical Lead | Unity Developer | Educational Mentor
+## XR Technical Lead | Unity Developer | Educational Mentor | Open-Source Contributor
 
 I craft immersive experiences across VR, AR, and MR platforms with 5+ years of professional Unity development expertise. As a former VR Team Leader, I've guided cross-disciplinary teams through complete project lifecycles while maintaining technical excellence and meeting business objectives.
 
